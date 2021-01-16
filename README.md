@@ -12,8 +12,15 @@
 </p>
 
 <h3 align='center'> 🌳 Self Gardening 🌳 </h3>
+<div align='center'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyo-sh&layout=compact&title_color=6ab04c&text_color=535c68)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+<div align='center'>
+
 [![SeokHuns's github stats](https://github-readme-stats.vercel.app/api?username=pyo-sh&show_icons=true&title_color=6ab04c&text_color=6ab04c&icon_color=f9ca24)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=badc58&height=150&section=footer)
